@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+/* eslint-disable 
 export const CURRENT_VERSION = process.env.currentVersion;
 export const AUTH_TOKEN = 'umami.auth';
 export const LOCALE_CONFIG = 'umami.locale';
